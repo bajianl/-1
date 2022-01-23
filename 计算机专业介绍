@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>计算机专业</title>
+</head>
+<body>
+<h2 style="font-family:华文仿宋;color:white ;background-color:lightskyblue";>计算机相关的课程</h2>
+<img src="./计算机专业课程图.jpg" alt="无法显示">
+<h2>对计算机相关课程的介绍</h2>
+<h2 style="font-family:华文仿宋 ; color:white ;background-color:darkblue“ ;>计算机相关的课程介绍</h2>
+<a href="https://www.coursera.org/learn/os-pku" >操作系统</a>
+<a href="https://wenku.so.com/d/04b4d6265ec5d64b14638545b054cb82" >人工智能</a>
+<a href="https://zhidao.baidu.com/question/333759368966969245.html" >计算机组成原理</a>
+<a href="http://blog.sina.com.cn/s/blog_4e14866f01000bga.html" >数据库系统</a>
+<a href="https://baike.so.com/doc/7372877-7640850.html" >计算机系统综合设计</a>
+<a href="http://jsjwl.chd.edu.cn/kcwz/kcjs.htm" >计算机网络</a>
+<a href="https://baike.so.com/doc/5402968-5640654.html" >离散数学</a>
+<a href="https://www.scholat.com/course/clanguge" >高级语言程序设计</a>
+<h2>对于计算机专业的认识</h2>
+<p>
+       计算机专业并不仅仅是之前不了解时认为计算机专业只是编程，编程只是计算机专业的一部分。
+    <br>发现计算机专业要学好并熟练掌握数 学知识，将数学知识迁移到实际应用中，计算机专业还要</br>
+    <br>了解计算机的组成结构和原理，还有对图像，音频等的处理，计算机安全等，计算机专业范围十</br>
+    <br>分广泛。</br>
+</p>
+<p>
+    在学习过程中，也要求我们每一个都有一定的自学能力，学会自己去查找，筛选资料，目前刚刚
+    <br>接触的计算机专业的知识，发现需要我们自己要 不断的去练习所学的知识才能孰能生巧，要自己</br>
+    <br>一点点的去尝试，出现错误时，要去寻找错误，并且在尝试中修正完善中才能真正掌握，如果只</br>
+    <br>是不动脑子的，按照已有的答案去操作是没有用的。同时，计算机很多资料，软件，网页等都是</br>
+    <br>英文的，所以学好英语也十分重要。所以在学习 过程中需要我们要有学习的主动性和坚持不懈的</br>
+    <br>努力。</br>
+</p>
+<p>
+      而且了解到计算机专业的就业范围非常广泛可以从事计算机，金融，农业等众多方面的工作。
+</p>
+<table border="1">
+    <caption>学业规划</caption>
+    <tr>
+        <th>时间</th>
+        <th>大一</th>
+        <th>大二</th>
+        <th>大三</th>
+    </tr>
+    <tr>
+        <td>规划</td>
+        <td>学好大学计算机和程序设计基础对Python和c尽可能较为熟练掌握</td>
+        <td>离散数学前1/3数据结构于算法等课程掌握前1/3</td>
+        <td>操作系统，计算机网络等课程前1/3</td>
+    </tr>
+</table>
+</body>
+</html>
